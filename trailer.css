@@ -1,0 +1,39 @@
+header {
+    background-color: rgba(114, 0, 0, 0.74);
+    
+}
+header nav ul {
+    display: flex;
+
+}
+header nav li {
+    list-style: none;
+}
+header nav li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: block;
+    background-color: rgba(0, 0, 0, 0.658);
+    padding: 15px 18px;
+}
+header nav li a:hover { 
+background-color: brown;
+}
+main {
+    padding: 20px;
+    width: 75%;
+    margin: auto; }
+    body{
+        background-image: url(https://ecommerce.cdn.genera.com.br/uploads/2023/06/copia.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+     }
+     iframe{
+        margin: auto;
+        display: block;
+     }
+     h1 {
+        padding-top: 45px ;
+        margin: auto;
+     }
